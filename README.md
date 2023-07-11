@@ -8,7 +8,7 @@ The homepage will show you the current NJ Transit schedule of NY Penn Station (F
 You can tap on the corresponding NJ Transit train to see the prediciton of where the track will be as well as its historical data of where the track has landed.
 ![demo](https://github.com/mlbiscoc/Conductor/assets/54160956/5cccaba7-ccc7-4ee0-a89f-7805b79842c8)
 
-#FAQ
+# FAQ
 
 ## What am I looking at?
 You are seeing the current NJ Transit departure schedule for NY Penn Station
