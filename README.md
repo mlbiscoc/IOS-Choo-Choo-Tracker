@@ -25,5 +25,10 @@ This does not have any filtering availabile currently
 # Contact
 Any feedback or help please contact me at biscocho.matthew@gmail.com
 
+# Privacy Policy
+No personal data shared is collected and/or will ever be given to any third party, under any circumstances. Your data will also never be used by us for any purpose without specific permission.
+
+The app engages in no ad targeting, data mining, or other activities that may compromise your privacy, and we do not affiliate ourselves with any third parties that do so.
+
 App by Matthew Biscocho
 Logo by Justin Antonio
