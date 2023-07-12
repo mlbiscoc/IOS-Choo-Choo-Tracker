@@ -1,6 +1,6 @@
-# Conductor
+# Choo Choo Tracker
 ![catios](https://github.com/mlbiscoc/Conductor/assets/54160956/2588084b-e1de-4b33-ac4b-1aec4f83ea98)
-Conductor is an IOS app designed for NJ Transit. If you are a commuter who takes NJ Transit, this will help you predict where your track will be
+Choo Choo Tracker is an IOS app designed for NJ Transit. If you are a commuter who takes NJ Transit, this will help you predict where your track will be
 
 # Usage
 The homepage will show you the current NJ Transit schedule of NY Penn Station (Future plan of adding Newark Penn Station). You can scroll through to see the current schedule of all NJ Transit trains departing and its time.
